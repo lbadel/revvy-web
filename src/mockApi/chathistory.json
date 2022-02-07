@@ -1,0 +1,25 @@
+{
+    "id" : "58074398502oidf",
+    "history" : [
+        {
+            "user" : "user",
+            "message" : "Hello"
+        },
+        {
+            "user" : "bot",
+            "message" : "Hi!"
+        },
+        {
+            "user" : "user",
+            "message" : "testing messages"
+        },
+        {
+            "user" : "bot",
+            "message" : "no!"
+        },
+        {
+            "user" : "bot",
+            "message" : "Testing the history"
+        }
+    ]
+}
